@@ -1,7 +1,7 @@
 import logo from "../assets/logo";
 
 const blogData = {
-  name: "Underreacted",
+  name: "Overreacted",
   image: logo,
   about: "A blog about learning React",
   posts: [
@@ -17,13 +17,13 @@ const blogData = {
       title: "React Data Flow",
       date: "December 11, 2020",
       preview: "Passing props is never passé",
-      minutes: 15,
+      minutes: 10,
     },
     {
       id: 3,
-      title: "Function vs Class Components",
+      title: "Props vs Class Components",
       preview: "React, meet OOJS.",
-      minutes: 47,
+      minutes: 3,
     },
   ],
 };
